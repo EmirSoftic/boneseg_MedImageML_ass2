@@ -1,6 +1,6 @@
-# Principal Component Analysis (PCA) Assignment
+# Bone Segmentation Assignment
 
-This repository contains the implementation and analysis for our PCA assignment. 
+This repository contains the implementation and analysis for the second assignment- bone segmentation. 
 
 ## Setup Instructions
 
