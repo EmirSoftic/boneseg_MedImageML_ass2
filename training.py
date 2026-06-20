@@ -1,6 +1,4 @@
 import os
-os.add_dll_directory(r"C:\Windows\System32")
-#needed to add this because I had a lot of PATH issues
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
