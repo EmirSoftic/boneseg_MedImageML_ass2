@@ -35,3 +35,5 @@ Ensure you have [Miniconda] or Anaconda installed on your system.
     ```
 
 After this, open VSCode or another Jupyter environment and select the created kernel. All should be working fine.
+## Disclaimer
+Due to the Windows compatibility issues with importing the library torch on one of our teammate's laptops, we needed to add the first cell in the notebook06.py. It should not affect running the code on other devices, however if it does, please remove the first cell in notebook06.py (the one that starts with the comment:  Windows-only compatibility fix for Conda/PyTorch DLL loading). Thank you!
